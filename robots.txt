@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pejuangjp.github.io/sitemap.xml
